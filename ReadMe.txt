@@ -1,0 +1,1 @@
+PHP-MYSQL Security items not yet implemented. Watch out for SQL injections!

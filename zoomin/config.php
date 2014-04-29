@@ -1,0 +1,1 @@
+<?php $con=mysql_connect("localhost","root",""); $zoomin_db="zoomin"; if(!$con) echo "Server Error"; else mysql_select_db($zoomin_db); ?>
